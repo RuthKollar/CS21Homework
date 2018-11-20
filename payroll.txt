@@ -1,4 +1,0 @@
-Ruth	    10.00 10.00 100.00
-
-Total Payroll = $100.00
-Average Paycheck = $100.00

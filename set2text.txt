@@ -1,7 +1,0 @@
-two
-four
-six
-eight
-blue
-orange
-pink
